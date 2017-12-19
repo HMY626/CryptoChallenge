@@ -1,6 +1,6 @@
-cryptopals
-==========
+Online CryptoChallenge Website：http://www.cryptopals.com/
+=============================================================================================
 
-My solutions to the Matasano Crypto Challenges.  Written as a project for learning python.
+Some of the challenges are my programming exercises assigned by my Cryptography professor. I found it interestng! And CryptoCracking may be helpful for your algorithm.
 
-(In other words, the solutions work, but may not be well-written).
+All the python code can be run by py2.
